@@ -1,0 +1,6 @@
+bin/dto
+.classpath
+.project
+.settings
+bin
+mapdata
